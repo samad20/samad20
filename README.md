@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [after_install_brew_MacOS](https://github.com/samad20/after_install_brew_MacOS)
 
-- 👨‍💻 All of my projects are available at [https://github.com/samad20](https://github.com/samad20)
+- 👨‍💻 All of my projects are available at [https://github.com/samad20](https://github.com/samad20?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.n1t1.com/author/musab/](https://www.n1t1.com/author/musab/)
 
